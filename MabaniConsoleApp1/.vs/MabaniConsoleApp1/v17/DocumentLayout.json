@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sajjad\\source\\repos\\MabaniConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2429AA41-100F-4293-BA5B-F4B9B0A944E7}|DrawShape\\DrawShape.csproj|c:\\users\\sajjad\\source\\repos\\mabaniconsoleapp1\\drawshape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2429AA41-100F-4293-BA5B-F4B9B0A944E7}|DrawShape\\DrawShape.csproj|solutionrelative:drawshape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FB6C16-124E-4CD5-854B-0849743C0D5C}|NumberSwiper\\NumberSwiper.csproj|C:\\Users\\Sajjad\\source\\repos\\MabaniConsoleApp1\\numberswiper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FB6C16-124E-4CD5-854B-0849743C0D5C}|NumberSwiper\\NumberSwiper.csproj|solutionrelative:numberswiper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F0695B-0248-4B13-9D88-670EEECCFBF3}|GradeCheck\\GradeCheck.csproj|C:\\Users\\Sajjad\\source\\repos\\MabaniConsoleApp1\\gradecheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F0695B-0248-4B13-9D88-670EEECCFBF3}|GradeCheck\\GradeCheck.csproj|solutionrelative:gradecheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sajjad\\source\\repos\\MabaniConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sajjad\\source\\repos\\MabaniConsoleApp1\\MabaniConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MabaniConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sajjad\\source\\repos\\MabaniConsoleApp1\\DrawShape\\Program.cs",
+              "RelativeDocumentMoniker": "DrawShape\\Program.cs",
+              "ToolTip": "C:\\Users\\Sajjad\\source\\repos\\MabaniConsoleApp1\\DrawShape\\Program.cs",
+              "RelativeToolTip": "DrawShape\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T18:33:33.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sajjad\\source\\repos\\MabaniConsoleApp1\\NumberSwiper\\Program.cs",
+              "RelativeDocumentMoniker": "NumberSwiper\\Program.cs",
+              "ToolTip": "C:\\Users\\Sajjad\\source\\repos\\MabaniConsoleApp1\\NumberSwiper\\Program.cs",
+              "RelativeToolTip": "NumberSwiper\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T18:28:17.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sajjad\\source\\repos\\MabaniConsoleApp1\\GradeCheck\\Program.cs",
+              "RelativeDocumentMoniker": "GradeCheck\\Program.cs",
+              "ToolTip": "C:\\Users\\Sajjad\\source\\repos\\MabaniConsoleApp1\\GradeCheck\\Program.cs",
+              "RelativeToolTip": "GradeCheck\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvwoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T18:24:42.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sajjad\\source\\repos\\MabaniConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sajjad\\source\\repos\\MabaniConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T18:20:43.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sajjad\\source\\repos\\MabaniConsoleApp1\\MabaniConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "MabaniConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sajjad\\source\\repos\\MabaniConsoleApp1\\MabaniConsoleApp1\\Program.cs",
+              "RelativeToolTip": "MabaniConsoleApp1\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T17:53:06.793Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
